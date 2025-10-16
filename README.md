@@ -14,7 +14,7 @@ With a foundation in **C++** and growing expertise in **JavaScript**, I speciali
 💡 *Code for people. Code for the future.*  -->
 
 ---
-![](https://komarev.com/ghpvc/?username=ZViacheslavV&color=blue&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=ZViacheslavV&color=blue&style=flat-square)
 
 <details>
   <summary>
