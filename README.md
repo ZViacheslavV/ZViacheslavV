@@ -273,7 +273,7 @@ Minimalistic My var Grid (great for portfolio clarity)
   <tr> -->
     <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="33" height="33"/></td>
   </tr>
-    <tr>
+    <!-- <tr>
     <td align="center">
     JavaScript
   </td>
@@ -288,7 +288,7 @@ Minimalistic My var Grid (great for portfolio clarity)
     <td align="center">React</td>
     <td align="center">Vite</td>
     <td align="center">Tailwind</td>
-  </tr>
+  </tr> -->
 </table>
 
 
