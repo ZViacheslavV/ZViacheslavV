@@ -68,8 +68,3 @@ With a foundation in **C++** and growing expertise in **JavaScript**, I speciali
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-### 🌱 Motto  
-> *“The future belongs to those who see opportunities before they become obvious.”*  
