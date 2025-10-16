@@ -79,7 +79,7 @@ Always learning. Always moving forward.
 ---
 
 ### 🧠 Focus
-`AI / Machine Learning` • `Full-Stack JavaScript` • `Next.js / React` • `TypeScript` • `Visionary Engineering`
+<!--`AI / Machine Learning` -->• `Full-Stack JavaScript` • `Next.js / React` • `TypeScript` • `Visionary Engineering`
 
 ---
 
