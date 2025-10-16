@@ -19,17 +19,17 @@ With a foundation in **C++** and growing expertise in **JavaScript**, I speciali
 
 #### 🖥️ Frontend  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,next,typescript,html,css,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=react,next,typescript,html,css,figma" /> <!-- ,tailwind -->
 </p>
 
 #### ⚙️ Backend  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,sqlite" />
+  <img src="https://skillicons.dev/icons?i=nodejs" /> <!-- ,express,mongodb,postgres,sqlite -->
 </p>
 
 #### 🧰 Tools & Other  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,linux,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode" /> <!-- ,docker -->
 </p>
 
 ---
