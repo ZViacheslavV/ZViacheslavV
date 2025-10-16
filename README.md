@@ -2,22 +2,7 @@
 
 <!--![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D47A1,100:1976D2&text=Viacheslav%20Zykov&textBg=false&reversal=false&fontAlignY=38&descAlign=100&descAlignY=100&animation=twinkling&fontColor=fff&fontSize=50)-->
 
-![Header Banner](./assets/header-wrapper.svg)
 
-<table align="center">
-  <tr>
-   <!--  <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" title="JavaScript" alt="JavaScript" width="33" height="33"/>
-  </a></td> -->
-    <td>
-<img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D47A1,100:1976D2&text=Viacheslav%20Zykov&textBg=false&reversal=false&fontAlignY=38&descAlign=100&descAlignY=100&animation=twinkling&fontColor=fff&fontSize=50"
-    alt="header"
-    style="border-radius: 14px; box-shadow: 0 0 20px rgba(13, 71, 161, 0.6);"
-  />
-      </td>
-  </tr>
-</table>
 
 
 <p align="center">
@@ -40,6 +25,19 @@
     alt="header" />
 </div>
 ---
+![Header Banner](./assets/header-wrapper.svg)
+
+<table align="center">
+  <tr>
+    <td>
+<img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D47A1,100:1976D2&text=Viacheslav%20Zykov&textBg=false&reversal=false&fontAlignY=38&descAlign=100&descAlignY=100&animation=twinkling&fontColor=fff&fontSize=50"
+    alt="header"
+    style="border-radius: 14px; box-shadow: 0 0 20px rgba(13, 71, 161, 0.6);"
+  />
+      </td>
+  </tr>
+</table>
 <!--
 🌌 Viacheslav | Visionary Full-Stack Developer
 -->
