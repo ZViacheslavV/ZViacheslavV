@@ -37,13 +37,12 @@ With a foundation in **C++** and growing expertise in **JavaScript**, I speciali
   <img src="https://skillicons.dev/icons?i=git,linux,vscode" width='99px' /> <!-- ,docker height='100px'-->
 </p>
 
+</details>
 ---
 
 <div align="center">
 <a href="https://www.codewars.com/users/ZViacheslavV"><img src="https://www.codewars.com/users/ZViacheslavV/badges/small">
 </div>
-  
-</details>
   
 <!--
 ### 🚀 Current Focus  
