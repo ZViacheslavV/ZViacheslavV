@@ -9,7 +9,11 @@
    <!--  <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" title="JavaScript" alt="JavaScript" width="33" height="33"/>
   </a></td> -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=0D47A1&fontColor=ffffff&text=Viacheslav%20Zykov&fontSize=50&stroke=ffffff&strokeWidth=2)
+<img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D47A1,100:1976D2&text=Viacheslav%20Zykov&textBg=false&reversal=false&fontAlignY=38&descAlign=100&descAlignY=100&animation=twinkling&fontColor=fff&fontSize=50"
+    alt="header"
+    style="border-radius: 14px; box-shadow: 0 0 20px rgba(13, 71, 161, 0.6);"
+  />
   </tr>
 </table>
 
