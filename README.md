@@ -145,6 +145,78 @@ Always learning. Always moving forward.
   <img src="https://img.shields.io/badge/-React%20Query-FF4154?logo=reactquery&logoColor=fff&style=plastic" />
   <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&style=plastic" />
 </p>
+Clean Horizontal Line (FAANG-style)
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" title="JavaScript" alt="JavaScript" width="36" height="36"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" title="TypeScript" alt="TypeScript" width="36" height="36"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" title="React" alt="React" width="36" height="36"/>
+  </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" title="Vite" alt="Vite" width="36" height="36"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" title="TailwindCSS" alt="TailwindCSS" width="36" height="36"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" title="HTML5" alt="HTML5" width="36" height="36"/>
+  </a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" title="CSS3" alt="CSS3" width="36" height="36"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" title="VS Code" alt="VS Code" width="36" height="36"/>
+  </a>
+</p>
+Minimalistic Grid (great for portfolio clarity)
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36"/><br>JavaScript</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36"/><br>TypeScript</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36"/><br>React</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36"/><br>Vite</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36"/><br>Tailwind</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36"/><br>HTML5</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36"/><br>CSS3</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36"/><br>VS Code</td>
+  </tr>
+</table>
+Animated Centered Stack (modern & eye-catching)
+<h3 align="center">🛠️ My Tech Stack</h3>
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" title="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" title="TypeScript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" title="React" width="40" height="40"/>
+  </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" title="Vite" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" title="TailwindCSS" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" title="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" title="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" title="VS Code" width="40" height="40"/>
+  </a>
+</p>
+
+
 
 ---
 
