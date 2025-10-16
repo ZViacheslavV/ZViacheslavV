@@ -18,13 +18,18 @@ With a foundation in **C++** and growing expertise in **JavaScript**, I speciali
 ### ⚙️ Tech Stack  
 
 #### 🖥️ Frontend  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,next,typescript,html,css,figma" width='500px' height='500px'/> <!-- ,tailwind -->
+<!-- <p align="left">
+  <img src="https://skillicons.dev/icons?i=react,next,typescript,html,css,figma" width='100px' height='100px'/> ,tailwind
 </p>
 
 #### ⚙️ Backend  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" /> <!-- ,express,mongodb,postgres,sqlite -->
+  <img src="https://skillicons.dev/icons?i=nodejs" /> ,express,mongodb,postgres,sqlite
+</p> -->
+
+#### ⚙️ Full-stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,react,next,typescript,html,css,figma" width='100px' height='100px'/> <!-- ,tailwind -->
 </p>
 
 #### 🧰 Tools & Other  
