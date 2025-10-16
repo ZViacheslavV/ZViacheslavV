@@ -42,7 +42,6 @@
 <!--
 🌌 Viacheslav | Visionary Full-Stack Developer
 -->
-</br>
 <!-- <h1 align="center">👋 Hi, I'm Viacheslav</h1> -->
 <h1 align="center"><!-- Visionary • --> Full-Stack <!-- JavaScript --> Developer • Future-Oriented Thinker</h1>
 
