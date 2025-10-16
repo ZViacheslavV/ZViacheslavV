@@ -27,7 +27,7 @@
 I’m a **futurologist and visionary in the making**, passionate about building technologies that serve people and shape a better tomorrow.  
 With a foundation in **C++** and growing expertise in **JavaScript**, I specialize in **React**, **Next.js**, **Node.js**, **MongoDB**, and **SQL** — crafting full-stack applications that balance functionality, performance, and impact.  
 
-💡 *Code for people. Code for the future.*  -->
+<!--💡 *Code for people. Code for the future.*  -->
 
 ---
 ![](https://komarev.com/ghpvc/?username=ZViacheslavV&color=blueviolet&style=plastic)
