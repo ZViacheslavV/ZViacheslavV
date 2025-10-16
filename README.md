@@ -4,8 +4,14 @@
 
 ![Header Banner](./assets/header-wrapper.svg)
 
+<table align="center">
+  <tr>
+   <!--  <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" title="JavaScript" alt="JavaScript" width="33" height="33"/>
+  </a></td> -->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=0D47A1&fontColor=ffffff&text=Viacheslav%20Zykov&fontSize=50&stroke=ffffff&strokeWidth=2)
-
+  </tr>
+</table>
 
 
 <p align="center">
