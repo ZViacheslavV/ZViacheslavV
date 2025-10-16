@@ -36,7 +36,7 @@
     alt="header"
     style="border-radius: 14px; box-shadow: 0 0 20px rgba(13, 71, 161, 0.6);"
   />
-      <p align="center"><!-- Visionary • --> Full-Stack developer <!--| Full-Stack  JavaScript --> <!-- path --> <!-- • Future-Oriented Thinker --></p>
+      <h3 align="center"><!-- Visionary • --> Full-Stack developer <!--| Full-Stack  JavaScript --> <!-- path --> <!-- • Future-Oriented Thinker --></h3>
       </td>
   </tr>
 </table>
