@@ -49,7 +49,7 @@ With a foundation in **C++** and growing expertise in **JavaScript**, I speciali
 - High emotional intelligence  
 - Fast, efficient learning and adaptability  -->
 
----
+<!-----
 
 ### 📊 GitHub Stats  
 <p align="center">
@@ -57,7 +57,7 @@ With a foundation in **C++** and growing expertise in **JavaScript**, I speciali
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZViacheslavV&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
+--- -->
 
 ### 📬 Connect With Me  
 <p align="left">
