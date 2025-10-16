@@ -187,6 +187,33 @@ Minimalistic Grid (great for portfolio clarity)
     <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="24" height="24"/><br>VS Code</td>
   </tr>
 </table>
+Minimalistic My var Grid (great for portfolio clarity)
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="24" height="24"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="24" height="24"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="24" height="24"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="24" height="24"/></td>
+  <!-- </tr>
+  <tr> -->
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="24" height="24"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="24" height="24"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="24" height="24"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="24" height="24"/></td>
+  </tr>
+    <tr>
+    <td align="center">JavaScript</td>
+    <td align="center">TypeScript</td>
+    <td align="center">React</td>
+    <td align="center">Vite</td>
+  <!-- </tr>
+  <tr> -->
+    <td align="center">Tailwind</td>
+    <td align="center"><br>HTML5</td>
+    <td align="center"><br>CSS3</td>
+    <td align="center">VS Code</td>
+  </tr>
+</table>
 Animated Centered Stack (modern & eye-catching)
 <h3 align="center">🛠️ My Tech Stack</h3>
 <p align="center">
