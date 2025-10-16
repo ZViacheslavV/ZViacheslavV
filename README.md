@@ -64,7 +64,7 @@ With a foundation in **C++** and growing expertise in **JavaScript**, I speciali
 
 ---
 
-# 👋 Hi, I'm Viacheslav
+### 👋 Hi, I'm Viacheslav
 
 Building things that matter — at the intersection of **AI, data, and full-stack engineering**.  
 Always learning. Always moving forward.
