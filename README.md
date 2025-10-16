@@ -209,9 +209,9 @@ Minimalistic My var Grid (great for portfolio clarity)
     <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="33" height="33"/></td>
   </tr>
     <tr>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <td align="center">
     JavaScript
-  </a></td>
+  </td>
     <td align="center">TypeScript</td>
     <td align="center">React</td>
     <td align="center">Vite</td>
