@@ -25,6 +25,7 @@
     alt="header" />
 </div>
 ---
+
 ![Header Banner](./assets/header-wrapper.svg)
 
 <table align="center">
