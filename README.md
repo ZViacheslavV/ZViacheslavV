@@ -17,6 +17,11 @@
     <source media="(prefers-color-scheme: dark)" srcset="laptop-darkest-most-blue.gif">
     <img align="right" width="50%" src="laptop-darkest-most-blue.gif">
 </picture>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="laptop-darkest-blue-high.gif">
+    <img align="right" width="50%" src="laptop-darkest-blue-high.gif">
+</picture>
 ---
 <!-- ### 🧠 About Me  
 I’m a **futurologist and visionary in the making**, passionate about building technologies that serve people and shape a better tomorrow.  
