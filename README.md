@@ -271,7 +271,7 @@ Minimalistic My var Grid (great for portfolio clarity)
     <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="33" height="33"/></td>
   <!-- </tr>
   <tr> -->
-    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="33" height="33"/></td>
+    <td ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="33" height="33"/></td>
   </tr>
     <!-- <tr>
     <td align="center">
