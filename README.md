@@ -1,7 +1,7 @@
 ![Header](https://media.licdn.com/dms/image/v2/D4E16AQHLUXdMmbE14g/profile-displaybackgroundimage-shrink_350_1400/B4EZnUAFFjGcAY-/0/1760198415759?e=1762387200&v=beta&t=LYopG9jKqXc6A4HiJENMh7UEEFM3y_ONySdf4UcAsOY)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D47A1,100:1976D2&text=Viacheslav%20Zykov&textBg=false&reversal=false&fontAlignY=38&descAlign=100&descAlignY=100&animation=twinkling&fontColor=fff&fontSize=50)
-
+---
 <!--
 🌌 Viacheslav | Visionary Full-Stack Developer
 -->
