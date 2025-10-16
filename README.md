@@ -22,7 +22,7 @@ With a foundation in **C++** and growing expertise in **JavaScript**, I speciali
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ZViacheslavV&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ZViacheslavV)
+![ZViacheslavV's profile views](https://visitor-badge.laobi.icu/badge?page_id=ZViacheslavV)
 
 
 
