@@ -188,6 +188,11 @@ Minimalistic Grid (great for portfolio clarity)
   </tr>
 </table>
 Minimalistic My var Grid (great for portfolio clarity)
+
+<details>
+  <summary>
+⚙️ Tech Stack  
+  </summary>
 <table>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36"/></td>
@@ -214,6 +219,8 @@ Minimalistic My var Grid (great for portfolio clarity)
     <td align="center">VS Code</td>
   </tr>
 </table>
+
+  </details>
 Animated Centered Stack (modern & eye-catching)
 <h3 align="center">🛠️ My Tech Stack</h3>
 <p align="center">
