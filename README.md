@@ -15,7 +15,7 @@
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="laptop-dblue-js-edited.gif">
-    <img align="right" width="50%" src="laptop-dblue-js-edited.gif">
+    <img align="right" width="33%" src="laptop-dblue-js-edited.gif">
 </picture>
 
 <!--<picture>
