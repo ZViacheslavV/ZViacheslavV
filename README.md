@@ -14,8 +14,8 @@
 </picture>
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="laptop-dark-dblue.gif">
-    <img align="right" width="33%" src="laptop-dark-dblue.gif">
+    <source media="(prefers-color-scheme: dark)" srcset="laptop-dblue.gif">
+    <img align="right" width="33%" src="laptop-dblue.gif">
 </picture>
 
 <!--<picture>
