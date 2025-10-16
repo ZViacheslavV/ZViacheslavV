@@ -12,9 +12,9 @@ I’m a **futurologist and visionary in the making**, passionate about building 
 With a foundation in **C++** and growing expertise in **JavaScript**, I specialize in **React**, **Next.js**, **Node.js**, **MongoDB**, and **SQL** — crafting full-stack applications that balance functionality, performance, and impact.  
 
 💡 *Code for people. Code for the future.*  -->
-<details>
----
 
+---
+<details>
 ### ⚙️ Tech Stack  
 
 <!-- #### 🖥️ Frontend  
