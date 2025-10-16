@@ -43,7 +43,7 @@ With a foundation in **C++** and growing expertise in **JavaScript**, I speciali
 <a href="https://www.codewars.com/users/ZViacheslavV"><img src="https://www.codewars.com/users/ZViacheslavV/badges/small">
 </div>
   
-</a>details>
+</details>
   
 <!--
 ### 🚀 Current Focus  
