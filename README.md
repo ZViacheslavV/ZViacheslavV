@@ -10,7 +10,7 @@
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="laptop-darkest-more-blue.gif">
-    <img align="right" width="50%" src="laptop-darkest-more-blue.gif">
+    <img align="right" width="33%" src="laptop-darkest-more-blue.gif">
 </picture>
 
 <!--<picture>
