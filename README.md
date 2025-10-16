@@ -136,6 +136,15 @@ Always learning. Always moving forward.
   <img src="https://img.shields.io/badge/-React%20Query-FF4154?logo=reactquery&logoColor=fff&style=flat" />
   <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&style=flat" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&style=social" />
+  <img src="https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=social" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=social" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=social" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=social" />
+  <img src="https://img.shields.io/badge/-React%20Query-FF4154?logo=reactquery&logoColor=fff&style=social" />
+  <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&style=social" />
+</p>
 
 ---
 
