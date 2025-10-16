@@ -19,7 +19,7 @@ With a foundation in **C++** and growing expertise in **JavaScript**, I speciali
 
 #### 🖥️ Frontend  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,next,typescript,html,css,figma" /> <!-- ,tailwind -->
+  <img src="https://skillicons.dev/icons?i=react,next,typescript,html,css,figma" width='50px' height='50px'/> <!-- ,tailwind -->
 </p>
 
 #### ⚙️ Backend  
