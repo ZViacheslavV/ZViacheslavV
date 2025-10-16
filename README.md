@@ -9,6 +9,12 @@
     style="border-radius: 14px; box-shadow: 0 0 20px rgba(13, 71, 161, 0.6);"
   />
 </p>
+<div align="center" style="border: 2px dashed #2196F3; border-radius: 10px; padding: 6px; display: inline-block;">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D47A1,100:1976D2&text=Viacheslav%20Zykov&textBg=false&reversal=false&fontAlignY=38&descAlign=100&descAlignY=100&animation=twinkling&fontColor=fff&fontSize=50"
+    alt="header"
+/>
+</div>
 ---
 <!--
 🌌 Viacheslav | Visionary Full-Stack Developer
