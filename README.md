@@ -12,10 +12,10 @@
     <source media="(prefers-color-scheme: dark)" srcset="laptop-dark-more-blue.gif">
     <img align="right" width="33%" src="laptop-dark-more-blue.gif">
 </picture>
-</br>
+
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="laptop-dblue.gif">
-    <img align="right" width="33%" src="laptop-dblue.gif">
+    <img align="right" width="50%" src="laptop-dblue.gif">
 </picture>
 
 <!--<picture>
