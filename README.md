@@ -43,7 +43,7 @@
 🌌 Viacheslav | Visionary Full-Stack Developer
 -->
 <!-- <h1 align="center">👋 Hi, I'm Viacheslav</h1> -->
-<h1 align="center"><!-- Visionary • --> Full-Stack <!-- JavaScript --> Developer • Future-Oriented Thinker</h1>
+<h1 align="center"><!-- Visionary • --> Front-end developer | Full-Stack <!-- JavaScript --> path <!-- • Future-Oriented Thinker --></h1>
 
 
 
