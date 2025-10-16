@@ -1,6 +1,6 @@
 ![Header](https://media.licdn.com/dms/image/v2/D4E16AQHLUXdMmbE14g/profile-displaybackgroundimage-shrink_350_1400/B4EZnUAFFjGcAY-/0/1760198415759?e=1762387200&v=beta&t=LYopG9jKqXc6A4HiJENMh7UEEFM3y_ONySdf4UcAsOY)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:1976D2&height=200&section=header&text=Vyacheslav%20Z.&fontColor=ffffff&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:1976D2&height=100&section=header&text=Viacheslav%20Z.&fontColor=ffffff&fontSize=40)
 
 <!--
 🌌 Viacheslav | Visionary Full-Stack Developer
