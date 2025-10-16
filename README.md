@@ -35,7 +35,7 @@ With a foundation in **C++** and growing expertise in **JavaScript**, I speciali
 ---
 
 <div align="center">
-<a href="https://www.codewars.com/users/ZVyacheslavV"><img src="https://www.codewars.com/users/ZVyacheslavV/badges/small">
+<a href="https://www.codewars.com/users/ZViacheslavV"><img src="https://www.codewars.com/users/ZViacheslavV/badges/small">
 </div>
 
   
