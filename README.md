@@ -1,3 +1,4 @@
+![Header](https://media.licdn.com/dms/image/v2/D4E16AQHLUXdMmbE14g/profile-displaybackgroundimage-shrink_350_1400/B4EZnUAFFjGcAY-/0/1760198415759?e=1762387200&v=beta&t=LYopG9jKqXc6A4HiJENMh7UEEFM3y_ONySdf4UcAsOY)
 <!--
 🌌 Viacheslav | Visionary Full-Stack Developer
 -->
@@ -5,7 +6,7 @@
 <!-- <h1 align="center">👋 Hi, I'm Viacheslav</h1> -->
 <h1 align="center"><!-- Visionary • --> Full-Stack <!-- JavaScript --> Developer • Future-Oriented Thinker</h1>
 
-![Header](https://media.licdn.com/dms/image/v2/D4E16AQHLUXdMmbE14g/profile-displaybackgroundimage-shrink_350_1400/B4EZnUAFFjGcAY-/0/1760198415759?e=1762387200&v=beta&t=LYopG9jKqXc6A4HiJENMh7UEEFM3y_ONySdf4UcAsOY)
+
 
 
 ---
