@@ -38,8 +38,8 @@
   />
       </td>
   </tr>
-  <h1 align="center"><!-- Visionary • --> Full-Stack developer <!--| Full-Stack  JavaScript --> <!-- path --> <!-- • Future-Oriented Thinker --></h1>
 </table>
+<h1 align="center"><!-- Visionary • --> Full-Stack developer <!--| Full-Stack  JavaScript --> <!-- path --> <!-- • Future-Oriented Thinker --></h1>
 <!--
 🌌 Viacheslav | Visionary Full-Stack Developer
 -->
