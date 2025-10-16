@@ -3,7 +3,7 @@
 -->
 
 <!-- <h1 align="center">👋 Hi, I'm Viacheslav</h1> -->
-<h3 align="center">Visionary • Full-Stack JavaScript Developer • Future-Oriented Thinker</h3>
+<h3 align="center">Visionary • Full-Stack <!-- JavaScript --> Developer • Future-Oriented Thinker</h3>
 
 ---
 
