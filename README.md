@@ -250,8 +250,7 @@ Minimalistic My var Grid (great for portfolio clarity)
 
   </details>
 
-<p align="center">
-<table>
+<table align="center">
   <tr>
     <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" title="JavaScript" alt="JavaScript" width="33" height="33"/>
@@ -295,7 +294,7 @@ Minimalistic My var Grid (great for portfolio clarity)
     <td align="center">Tailwind</td>
   </tr>
 </table>
-</p>
+
 
   
 Animated Centered Stack (modern & eye-catching)
