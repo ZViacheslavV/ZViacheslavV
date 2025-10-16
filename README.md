@@ -2,16 +2,16 @@
 🌌 Viacheslav | Visionary Full-Stack Developer
 -->
 
-<h1 align="center">👋 Hi, I'm Viacheslav</h1>
+<!-- <h1 align="center">👋 Hi, I'm Viacheslav</h1> -->
 <h3 align="center">Visionary • Full-Stack JavaScript Developer • Future-Oriented Thinker</h3>
 
 ---
 
-### 🧠 About Me  
+<!-- ### 🧠 About Me  
 I’m a **futurologist and visionary in the making**, passionate about building technologies that serve people and shape a better tomorrow.  
 With a foundation in **C++** and growing expertise in **JavaScript**, I specialize in **React**, **Next.js**, **Node.js**, **MongoDB**, and **SQL** — crafting full-stack applications that balance functionality, performance, and impact.  
 
-💡 *Code for people. Code for the future.*  
+💡 *Code for people. Code for the future.*  -->
 
 ---
 
@@ -33,7 +33,7 @@ With a foundation in **C++** and growing expertise in **JavaScript**, I speciali
 </p>
 
 ---
-
+<!--
 ### 🚀 Current Focus  
 - Advancing my **backend architecture** and **API design** skills  
 - Building **scalable full-stack apps** with modern tools  
@@ -47,7 +47,7 @@ With a foundation in **C++** and growing expertise in **JavaScript**, I speciali
 - Creative problem-solving  
 - Leadership & team collaboration  
 - High emotional intelligence  
-- Fast, efficient learning and adaptability  
+- Fast, efficient learning and adaptability  -->
 
 ---
 
