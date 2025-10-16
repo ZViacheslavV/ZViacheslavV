@@ -15,6 +15,12 @@
     alt="header"
 />
 </div>
+
+<div align="center" style="display:inline-block; border:3px solid #1976d2; border-radius:12px; padding:4px;">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D47A1,100:1976D2&text=Viacheslav%20Zykov&textBg=false&reversal=false&fontAlignY=38&descAlign=100&descAlignY=100&animation=twinkling&fontColor=fff&fontSize=50" 
+    alt="header" />
+</div>
 ---
 <!--
 🌌 Viacheslav | Visionary Full-Stack Developer
