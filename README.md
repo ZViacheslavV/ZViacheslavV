@@ -18,7 +18,7 @@ With a foundation in **C++** and growing expertise in **JavaScript**, I speciali
 
 <details>
   <summary>
-### ⚙️ Tech Stack  
+⚙️ Tech Stack  
   </summary>
 
 <!-- #### 🖥️ Frontend  
