@@ -38,6 +38,7 @@ With a foundation in **C++** and growing expertise in **JavaScript**, I speciali
 </p>
 
 </details>
+
 ---
 
 <div align="center">
