@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" preserveAspectRatio="xMidYMid meet">
+  <!-- Banner image (external capsule-render URL) -->
+  <image href="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D47A1,100:1976D2&text=Viacheslav%20Zykov&textBg=false&reversal=false&fontAlignY=38&descAlign=100&descAlignY=100&animation=twinkling&fontColor=fff&fontSize=50"
+         x="0" y="0" width="1200" height="170" preserveAspectRatio="xMidYMid slice" />
+  <!-- Border -->
+  <rect x="4" y="4" width="1192" height="162" rx="12" ry="12" fill="none" stroke="#1E88E5" stroke-width="8" />
+</svg>
