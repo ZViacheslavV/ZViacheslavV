@@ -14,7 +14,7 @@ With a foundation in **C++** and growing expertise in **JavaScript**, I speciali
 💡 *Code for people. Code for the future.*  -->
 
 ---
-![ZViacheslavV's profile views](https://komarev.com/ghpvc/?username=ZViacheslavV&color=blueviolet&style=plastic)
+![](https://komarev.com/ghpvc/?username=ZViacheslavV&color=blueviolet&style=plastic)
 
 ![Vyacheslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZViacheslavV&show_icons=true&theme=tokyonight)
 
@@ -22,7 +22,7 @@ With a foundation in **C++** and growing expertise in **JavaScript**, I speciali
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ZViacheslavV&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![ZViacheslavV's profile views](https://visitor-badge.laobi.icu/badge?page_id=ZViacheslavV)
+![](https://visitor-badge.laobi.icu/badge?page_id=ZViacheslavV)
 
 
 
