@@ -29,12 +29,12 @@ With a foundation in **C++** and growing expertise in **JavaScript**, I speciali
 
 #### ⚙️ Full-stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,next,typescript,html,css,figma" width='100px' height='100px'/> <!-- ,tailwind -->
+  <img src="https://skillicons.dev/icons?i=nodejs,react,next,typescript,html,css,figma" width='231px' /> <!-- ,tailwind height='100px'-->
 </p>
 
 #### 🧰 Tools & Other  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,linux,vscode" width='100px' height='100px'/> <!-- ,docker -->
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode" width='99px' /> <!-- ,docker height='100px'-->
 </p>
 
 ---
