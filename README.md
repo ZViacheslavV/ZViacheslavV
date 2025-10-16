@@ -33,6 +33,12 @@ With a foundation in **C++** and growing expertise in **JavaScript**, I speciali
 </p>
 
 ---
+
+<div align="center">
+<a href="https://www.codewars.com/users/ViktorSvertoka"><img src="https://www.codewars.com/users/ViktorSvertoka/badges/small">
+</div>
+
+  
 <!--
 ### 🚀 Current Focus  
 - Advancing my **backend architecture** and **API design** skills  
