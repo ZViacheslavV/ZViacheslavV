@@ -100,6 +100,98 @@ Always learning. Always moving forward.
 > _“The best way to predict the future is to build it.”_  
 > — Alan Kay
 
+---
+###SECOND VARIANT:
+<!-- 👨‍💻 FAANG-Style GitHub Profile for ZViacheslavV -->
+
+<h1 align="center">👋 Hi, I'm Viacheslav</h1>
+
+<p align="center">
+  <b>Vision-driven Engineer</b> crafting scalable systems at the intersection of <b>AI, Data, and Full-Stack JavaScript</b>.
+</p>
+
+<p align="center">
+  <i>“The best way to predict the future is to build it.” — Alan Kay</i>
+</p>
+
+---
+
+### 🧠 Core Focus
+
+- 🤖 Artificial Intelligence & Future Tech  
+- 🧩 Full-Stack JavaScript (Next.js, React, Node.js)  
+- 🧮 Data-driven Systems & API Design  
+- 🧭 Long-term Vision & Human Impact  
+
+---
+
+### ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&style=flat" />
+  <img src="https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/-React%20Query-FF4154?logo=reactquery&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&style=flat" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=ZViacheslavV&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github" 
+       height="160"
+  />
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZViacheslavV&layout=compact&hide_border=true&theme=transparent"
+       height="160"
+  />
+</p>
+
+---
+
+### 🛰️ Active Projects
+
+| Project | Description | Stack |
+|----------|--------------|-------|
+| 🗒️ **NoteHub** | Smart Notes App with AI-powered organization | Next.js • React Query • PostgreSQL |
+| ⚡ **AutoFlow** | Workflow automation engine with custom triggers | Node.js • TypeScript • REST APIs |
+| 🧠 **VisionCraft** | Experimental AI prototypes for decision systems | Python • JS • OpenAI API |
+
+---
+
+### 📈 Insights
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ZViacheslavV" alt="Profile Views" />
+  <img src="https://img.shields.io/github/stars/ZViacheslavV?style=flat" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/ZViacheslavV?style=flat" alt="Followers" />
+</p>
+
+---
+
+### 🌐 Connect
+
+<p align="center">
+  <a href="https://github.com/ZViacheslavV" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-333333?logo=gmail&logoColor=white&style=flat" />
+  </a>
+</p>
+
+---
+
+<p align="center"><sub>Built with ☕, ⚛️, and a vision for a better digital future.</sub></p>
+
 
 ---
 <div align="center">
