@@ -373,3 +373,6 @@ Animated Centered Stack (modern & eye-catching)
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<a href="https://linkedin.com/in/viacheslav-zykov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viacheslav-zykov" height="30" width="40" /></a>
+<a href="https://instagram.com/viacheslav-zykov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viacheslav-zykov" height="30" width="40" /></a>
