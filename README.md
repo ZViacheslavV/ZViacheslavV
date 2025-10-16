@@ -209,8 +209,8 @@ Minimalistic My var Grid (great for portfolio clarity)
   <!-- </tr>
   <tr> -->
     <td align="center">Tailwind</td>
-    <td align="center"><br>HTML5</td>
-    <td align="center"><br>CSS3</td>
+    <td align="center">HTML5</td>
+    <td align="center">CSS3</td>
     <td align="center">VS Code</td>
   </tr>
 </table>
