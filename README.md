@@ -12,10 +12,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="laptop-darker-blue.gif">
     <img align="right" width="50%" src="laptop-darker-blue.gif">
 </picture>
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif">
-    <img align="right" width="50%" src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif">
-</picture>
+
 ---
 <!-- ### 🧠 About Me  
 I’m a **futurologist and visionary in the making**, passionate about building technologies that serve people and shape a better tomorrow.  
