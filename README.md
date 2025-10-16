@@ -13,6 +13,11 @@
     <img align="right" width="33%" src="laptop-dark-more-blue.gif">
 </picture>
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="laptop-dark-dblue.gif">
+    <img align="right" width="33%" src="laptop-dark-dblue.gif">
+</picture>
+
 <!--<picture>
     <source media="(prefers-color-scheme: dark)" srcset="laptop-darkest-most-blue.gif">
     <img align="right" width="50%" src="laptop-darkest-most-blue.gif">
