@@ -17,8 +17,8 @@ With a foundation in **C++** and growing expertise in **JavaScript**, I speciali
 
 ### ⚙️ Tech Stack  
 
-#### 🖥️ Frontend  
-<!-- <p align="left">
+<!-- #### 🖥️ Frontend  
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,next,typescript,html,css,figma" width='100px' height='100px'/> ,tailwind
 </p>
 
@@ -34,7 +34,7 @@ With a foundation in **C++** and growing expertise in **JavaScript**, I speciali
 
 #### 🧰 Tools & Other  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,linux,vscode" /> <!-- ,docker -->
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode" width='100px' height='100px'/> <!-- ,docker -->
 </p>
 
 ---
