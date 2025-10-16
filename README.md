@@ -2,11 +2,12 @@
 
 <!--![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D47A1,100:1976D2&text=Viacheslav%20Zykov&textBg=false&reversal=false&fontAlignY=38&descAlign=100&descAlignY=100&animation=twinkling&fontColor=fff&fontSize=50)-->
 
-<p align="center" style="border: 3px solid #1565C0; border-radius: 14px; display: inline-block; padding: 4px;">
+<p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D47A1,100:1976D2&text=Viacheslav%20Zykov&textBg=false&reversal=false&fontAlignY=38&descAlign=100&descAlignY=100&animation=twinkling&fontColor=fff&fontSize=50" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D47A1,100:1976D2&text=Viacheslav%20Zykov&textBg=false&reversal=false&fontAlignY=38&descAlign=100&descAlignY=100&animation=twinkling&fontColor=fff&fontSize=50"
     alt="header"
-/>
+    style="border-radius: 14px; box-shadow: 0 0 20px rgba(13, 71, 161, 0.6);"
+  />
 </p>
 ---
 <!--
