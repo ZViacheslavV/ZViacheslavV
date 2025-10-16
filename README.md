@@ -81,13 +81,13 @@ With a foundation in **C++** and growing expertise in **JavaScript**, I speciali
 ---
 ![](https://komarev.com/ghpvc/?username=ZViacheslavV&color=blue&style=for-the-badge)
 
-![Vyacheslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZViacheslavV&show_icons=true&theme=tokyonight)
+<!--![Vyacheslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZViacheslavV&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZViacheslavV&layout=compact)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ZViacheslavV&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=ZViacheslavV)
+![](https://visitor-badge.laobi.icu/badge?page_id=ZViacheslavV)-->
 
 
 
