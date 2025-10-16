@@ -57,6 +57,51 @@ With a foundation in **C++** and growing expertise in **JavaScript**, I speciali
 
 ---
 
+# 👋 Hi, I'm Viacheslav
+
+Building things that matter — at the intersection of **AI, data, and full-stack engineering**.  
+Always learning. Always moving forward.
+
+---
+
+### 📊 Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ZViacheslavV&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZViacheslavV&layout=compact&hide_border=true&theme=transparent)
+
+---
+
+### 🧠 Focus
+`AI / Machine Learning` • `Full-Stack JavaScript` • `Next.js / React` • `TypeScript` • `Visionary Engineering`
+
+---
+
+### 🧩 Toolbox
+
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
+![React Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?logo=reactquery&logoColor=fff&style=flat)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&style=flat)
+
+---
+
+### 📈 Profile Insights
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=ZViacheslavV)
+![Stars](https://img.shields.io/github/stars/ZViacheslavV?style=flat)
+![Followers](https://img.shields.io/github/followers/ZViacheslavV?style=flat)
+
+---
+
+> _“The best way to predict the future is to build it.”_  
+> — Alan Kay
+
+
+---
 <div align="center">
 <a href="https://www.codewars.com/users/ZViacheslavV"><img src="https://www.codewars.com/users/ZViacheslavV/badges/small">
 </div>
