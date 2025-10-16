@@ -280,8 +280,6 @@ Minimalistic My var Grid (great for portfolio clarity)
     <td align="center">TypeScript</td>
     <td align="center">React</td>
     <td align="center">Vite</td>
-  <!-- </tr>
-  <tr> -->
     <td align="center">Tailwind</td>
     <td align="center">HTML5</td>
     <td align="center">CSS3</td>
@@ -289,8 +287,6 @@ Minimalistic My var Grid (great for portfolio clarity)
          <td align="center">TypeScript</td>
     <td align="center">React</td>
     <td align="center">Vite</td>
-  <!-- </tr>
-  <tr> -->
     <td align="center">Tailwind</td>
   </tr>
 </table>
