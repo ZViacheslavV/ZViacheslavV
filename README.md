@@ -6,21 +6,21 @@
 <h3 align="center"><!-- Visionary • --> Full-Stack <!-- JavaScript --> Developer • Future-Oriented Thinker</h3>
 
 ---
-<!-- <img src='https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif' alt='laptop' width=100%> -->
+ <img src='https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif' alt='laptop' width=100%> -->
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="laptop-darkest-more-blue.gif">
     <img align="right" width="50%" src="laptop-darkest-more-blue.gif">
 </picture>
 
-<picture>
+<!--<picture>
     <source media="(prefers-color-scheme: dark)" srcset="laptop-darkest-most-blue.gif">
     <img align="right" width="50%" src="laptop-darkest-most-blue.gif">
 </picture>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="laptop-darkest-blue-high.gif">
-    <img align="right" width="50%" src="laptop-darkest-blue-high.gif">
+    <img align="right" width="50%" src="laptop-darkest-blue-high.gif">-->
 </picture>
 ---
 <!-- ### 🧠 About Me  
