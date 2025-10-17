@@ -67,6 +67,7 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZViacheslavV&layout=compact&hide_border=true&theme=transparent"
        height="160"
   />
+  <img align="right" width="23%" src="laptop-dblue-js-edited.gif">
 </p>
 
 <picture>
