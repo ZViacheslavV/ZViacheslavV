@@ -56,6 +56,18 @@
     <source media="(prefers-color-scheme: dark)" srcset="laptop-dark-more-blue.gif">
     <img align="right" width="33%" src="laptop-dark-more-blue.gif">
 </picture> -->
+### 📊 GitHub Stats
+
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=ZViacheslavV&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github" 
+       height="160"
+  />
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZViacheslavV&layout=compact&hide_border=true&theme=transparent"
+       height="160"
+  />
+</p>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="laptop-dblue-js-edited.gif">
