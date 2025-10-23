@@ -13,7 +13,7 @@
   ⚙️  <strong>Tech Stack and Tools</strong>
   </summary>
   </br>
-<table aligh='center'>
+<table aligh='left'>
   <tr>
     <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" title="JavaScript" alt="JavaScript" width="33" height="33"/>
@@ -50,7 +50,7 @@
   <summary>
 📈  <strong>GitHub Stats</strong>
   </summary>
-<p align="center">
+<p align="left">
   <img 
        src="https://github-readme-stats.vercel.app/api?username=ZViacheslavV&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github" 
        height="160"
