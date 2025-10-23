@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>GitHub Profile Views Badge</title>
+  <script>
+    async function redirectBadge() {
+      const username = "ZViacheslavV";
+      const url = `https://komarev.com/ghpvc/?username=${username}`;
+
+      try {
+        const response = await fetch(url);
+        const text = await response.text();
+
+        // Витягуємо число з <span>
+        const matches = text.match(/<span>(\d+)<\/span>/);
+        const count = matches ? matches[1] : "0";
+
+        // Формуємо Shields.io URL
+        const badgeURL = `https://img.shields.io/badge/Profile%20Views-${count}-blue?style=for-the-badge&logo=github`;
+
+        // Перенаправляємо на шильд
+        window.location.href = badgeURL;
+      } catch (e) {
+        console.error(e);
+        window.location.href = `https://img.shields.io/badge/Profile%20Views-0-blue?style=for-the-badge&logo=github`;
+      }
+    }
+
+    redirectBadge();
+  </script>
+</head>
+<body></body>
+</html>
