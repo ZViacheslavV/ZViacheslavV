@@ -12,7 +12,7 @@
         const response = await fetch(url);
         const text = await response.text();
 
-        // Komarev повертає HTML, наприклад <span>768</span>
+        // Витягуємо число з <span>
         const matches = text.match(/<span>(\d+)<\/span>/);
         const count = matches ? matches[1] : "0";
 
