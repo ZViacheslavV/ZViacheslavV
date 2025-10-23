@@ -65,6 +65,10 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZViacheslavV&show_icons=true&count_private=false&theme=tokyonight)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZViacheslavV&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&rank_icon=github)
+![Contributions](https://img.shields.io/badge/Total_Contributions-1,562-brightgreen?style=for-the-badge&logo=github)
+
+
 
 </details>
  
