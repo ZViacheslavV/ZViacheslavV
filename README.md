@@ -63,6 +63,9 @@
   
 <a href="https://github.com/ZViacheslavV?tab=repositories"><img width='150' alt="Repositories badge" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ZViacheslavV&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=0D47A1"></a>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZViacheslavV&show_icons=true&count_private=false&theme=tokyonight)
+
+
 </details>
  
 
