@@ -51,10 +51,13 @@
 📈  <strong>GitHub Stats</strong>
   </summary>
 <p align="left">
-  <img 
+  <!-- <img 
        src="https://github-readme-stats.vercel.app/api?username=ZViacheslavV&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github" 
        height="160"
-  />
+  /> -->
+    <img alt="Total Contributions" src="https://github-readme-stats.vercel.app/api?username=ZViacheslavV&show_icons=true&hide_title=true&hide_rank=true&hide=prs,issues,stars&count_private=true&theme=transparent" 
+        height="160"
+        />
   <img 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZViacheslavV&layout=compact&hide_border=false&theme=transparent"
        height="160"
