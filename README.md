@@ -10,15 +10,44 @@
 
 <details>
    <summary>
-  <h3>⚙️  <em>Tech stack and Tools</em></h3>
+  ⚙️  <strong>Tech Stack and Tools</strong>
   </summary>
   </br>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+<table>
+  <tr>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" title="JavaScript" alt="JavaScript" width="33" height="33"/>
+  </a></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="33" height="33"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="33" height="33"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="33" height="33"/></td>
+  <!-- </tr>
+  <tr> -->
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="33" height="33"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="33" height="33"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="33" height="33"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="33" height="33"/></td>
+  </tr>
+    <tr>
+    <td align="center">
+    JavaScript
+  </td>
+    <td align="center">TypeScript</td>
+    <td align="center">React</td>
+    <td align="center">Vite</td>
+  <!-- </tr>
+  <tr> -->
+    <td align="center">Tailwind</td>
+    <td align="center">HTML5</td>
+    <td align="center">CSS3</td>
+    <td align="center">VS Code</td>
+  </tr>
+</table>
 </details>
 
 <details>
   <summary>
-<h3>📈  <em>GitHub Stats</em></h3>
+📈  <strong>GitHub Stats</strong>
   </summary>
 <p align="center">
   <img 
@@ -38,8 +67,9 @@
 </details>
  
 
+<a href="https://github.com/ZViacheslavV?tab=repositories"><img height="50" alt="Repositories badge" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ZViacheslavV&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=0D47A1"></a>
 
-
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ZViacheslavV&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=0D47A1)
 
 
 <!--![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D47A1,100:1976D2&text=Viacheslav%20Zykov&textBg=false&reversal=false&fontAlignY=38&descAlign=100&descAlignY=100&animation=twinkling&fontColor=fff&fontSize=50)-->
@@ -84,6 +114,51 @@
 </br>
 </br>
 </br>
+
+<!-- 🌌 Profile Badges Section -->
+
+<!-- GitHub Stats -->
+![Stars](https://img.shields.io/github/stars/ZViacheslavV?style=for-the-badge&logo=github&logoColor=white&color=0D47A1)
+![Followers](https://img.shields.io/github/followers/ZViacheslavV?style=for-the-badge&logo=github&label=Followers&color=1976D2)
+![Repos](https://img.shields.io/badge/Public%20Repos-25-blue?style=for-the-badge&logo=github)
+![Last Commit](https://img.shields.io/github/last-commit/ZViacheslavV/awesome-project?style=for-the-badge&color=2196F3)
+![License](https://img.shields.io/github/license/ZViacheslavV/awesome-project?style=for-the-badge&color=1565C0)
+![Issues](https://img.shields.io/github/issues/ZViacheslavV/awesome-project?style=for-the-badge&color=42A5F5)
+![Pull Requests](https://img.shields.io/github/issues-pr/ZViacheslavV/awesome-project?style=for-the-badge&color=64B5F6)
+![Contributors](https://img.shields.io/github/contributors/ZViacheslavV/awesome-project?style=for-the-badge&color=64B5F6)
+
+<!-- Build & Quality -->
+![Build](https://img.shields.io/github/actions/workflow/status/ZViacheslavV/awesome-project/ci.yml?branch=main&style=for-the-badge&color=26A69A&logo=githubactions)
+![Tests](https://img.shields.io/badge/tests-passing-brightgreen?style=for-the-badge&logo=jest)
+![Coverage](https://img.shields.io/badge/coverage-95%25-brightgreen?style=for-the-badge&logo=codecov)
+![Security](https://img.shields.io/badge/security-passed-success?style=for-the-badge&logo=snyk&color=00C853)
+![Dependabot](https://img.shields.io/badge/dependabot-active-blue?style=for-the-badge&logo=dependabot)
+
+<!-- Tech Stack -->
+![JavaScript](https://img.shields.io/badge/JavaScript-ES2024-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-18.0+-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-18.3-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-14.0-black?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.4-3178C6?style=for-the-badge&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-06B6D4?style=for-the-badge&logo=tailwindcss)
+![MongoDB](https://img.shields.io/badge/MongoDB-6.0-47A248?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16.2-336791?style=for-the-badge&logo=postgresql)
+![Express](https://img.shields.io/badge/Express-5.0-black?style=for-the-badge&logo=express)
+![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)
+
+<!-- Tools -->
+![VSCode](https://img.shields.io/badge/VSCode-2024-0078D4?style=for-the-badge&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-Design-FF7262?style=for-the-badge&logo=figma)
+![OpenAI](https://img.shields.io/badge/OpenAI-Integration-412991?style=for-the-badge&logo=openai)
+![Notion](https://img.shields.io/badge/Notion-Workflow-black?style=for-the-badge&logo=notion)
+
+<!-- Social -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/viacheslav-zykov)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-673AB7?style=for-the-badge&logo=vercel)](https://your-portfolio-link)
+
 
 <p align="center">
   <img 
