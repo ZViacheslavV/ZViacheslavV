@@ -55,21 +55,21 @@
        src="https://github-readme-stats.vercel.app/api?username=ZViacheslavV&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github" 
        height="160"
   /> -->
-    <img alt="Total Contributions" src="https://github-readme-stats.vercel.app/api?username=ZViacheslavV&show_icons=true&hide_title=true&hide_rank=true&hide=prs,issues,stars&count_private=true&theme=transparent" 
+    <img alt="Total Contributions" src="https://github-readme-stats.vercel.app/api?username=ZViacheslavV&count_private=true&show_icons=true&hide_title=false&hide_rank=true&hide=prs,issues,stars&count_private=true&theme=transparent&hide_border=true" 
         height="160"
         />
   <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZViacheslavV&layout=compact&hide_border=false&theme=transparent"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZViacheslavV&layout=compact&hide_border=true&theme=transparent"
        height="160"
   />
 </p>
   
 <a href="https://github.com/ZViacheslavV?tab=repositories"><img heigth='120' alt="Badge" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ZViacheslavV&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=blue"></a>
-<a href="https://github.com/ZViacheslavV?tab=repositories"><img heigth='120' alt="Badge" src="https://img.shields.io/badge/Total_Contributions-1,562-brightgreen?style=for-the-badge&logo=github&color=blue"></a>
 <a href="https://github.com/ZViacheslavV?tab=repositories"><img heigth='60' alt="Badge" src="https://komarev.com/ghpvc/?username=ZViacheslavV&color=blue&style=for-the-badge&logo=github"></a>
-<a href="https://github.com/ZViacheslavV?tab=repositories">
+<!-- <a href="https://github.com/ZViacheslavV?tab=repositories"><img heigth='120' alt="Badge" src="https://img.shields.io/badge/Total_Contributions-1,562-brightgreen?style=for-the-badge&logo=github&color=blue"></a> -->
+<!-- <a href="https://github.com/ZViacheslavV?tab=repositories">
   <img alt="Total Contributions" src="https://github-readme-stats.vercel.app/api?username=ZViacheslavV&show_icons=true&hide_title=true&hide_rank=true&hide=prs,issues,stars&count_private=true&theme=transparent">
-</a>
+</a> -->
 
 <!-- ![Followers](https://img.shields.io/github/followers/ZViacheslavV?style=for-the-badge&logo=github&label=Followers&color=blue)
 ![GitHub Profile Views](https://img.shields.io/badge/Profile%20Views-123-blue?style=for-the-badge&logo=github)
