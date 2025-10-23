@@ -64,15 +64,17 @@
 <a href="https://github.com/ZViacheslavV?tab=repositories"><img heigth='120' alt="Badge" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ZViacheslavV&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=blue"></a>
 <a href="https://github.com/ZViacheslavV?tab=repositories"><img heigth='120' alt="Badge" src="https://img.shields.io/badge/Total_Contributions-1,562-brightgreen?style=for-the-badge&logo=github&color=blue"></a>
 <a href="https://github.com/ZViacheslavV?tab=repositories"><img heigth='60' alt="Badge" src="https://komarev.com/ghpvc/?username=ZViacheslavV&color=blue&style=for-the-badge&logo=github"></a>
-![Followers](https://img.shields.io/github/followers/ZViacheslavV?style=for-the-badge&logo=github&label=Followers&color=blue)
+<!-- ![Followers](https://img.shields.io/github/followers/ZViacheslavV?style=for-the-badge&logo=github&label=Followers&color=blue)
 ![GitHub Profile Views](https://img.shields.io/badge/Profile%20Views-123-blue?style=for-the-badge&logo=github)
+![Profile Views](https://ZViacheslavV.github.io/gh-badge/index.html)
+
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZViacheslavV&show_icons=true&count_private=false&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZViacheslavV&show_icons=true&count_private=false&theme=for-the-badge&hide_title=true&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZViacheslavV&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&rank_icon=github)
-![Contributions](https://img.shields.io/badge/Total_Contributions-1,562-brightgreen?style=for-the-badge&logo=github)
+![Contributions](https://img.shields.io/badge/Total_Contributions-1,562-brightgreen?style=for-the-badge&logo=github) -->
 
 
 
