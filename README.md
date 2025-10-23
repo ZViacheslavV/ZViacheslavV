@@ -13,7 +13,7 @@
   ⚙️  <strong>Tech Stack and Tools</strong>
   </summary>
   </br>
-<table>
+<table aligh='center'>
   <tr>
     <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" title="JavaScript" alt="JavaScript" width="33" height="33"/>
@@ -43,6 +43,7 @@
     <td align="center">VS Code</td>
   </tr>
 </table>
+    </br>
 </details>
 
 <details>
@@ -60,16 +61,10 @@
   />
 </p>
   
-![](https://komarev.com/ghpvc/?username=ZViacheslavV&color=blue)
+<a href="https://github.com/ZViacheslavV?tab=repositories"><img width='150' alt="Repositories badge" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ZViacheslavV&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=0D47A1"></a>
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=zviacheslavv.visitor-badge&left_text=Views%20)
-  
 </details>
  
-
-<a href="https://github.com/ZViacheslavV?tab=repositories"><img height="50" alt="Repositories badge" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ZViacheslavV&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=0D47A1"></a>
-
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ZViacheslavV&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=0D47A1)
 
 
 <!--![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D47A1,100:1976D2&text=Viacheslav%20Zykov&textBg=false&reversal=false&fontAlignY=38&descAlign=100&descAlignY=100&animation=twinkling&fontColor=fff&fontSize=50)-->
