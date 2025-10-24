@@ -87,9 +87,16 @@
 
 
 </details>
- 
 
-
+<details>
+   <summary>
+  &nbsp;⚙️  <strong>CodeWars Stats</strong>
+  </summary>
+</br>
+<div align="left">
+<a href="https://www.codewars.com/users/ZViacheslavV"><img src="https://www.codewars.com/users/ZViacheslavV/badges/large" height='30'/>
+</div>
+</details>
 <!--![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D47A1,100:1976D2&text=Viacheslav%20Zykov&textBg=false&reversal=false&fontAlignY=38&descAlign=100&descAlignY=100&animation=twinkling&fontColor=fff&fontSize=50)-->
 
 
