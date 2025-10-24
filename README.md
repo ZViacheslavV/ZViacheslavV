@@ -56,7 +56,6 @@
       <td align="center">Vite</td>
   </tr>
 </table>
-    </br>
 </details>
 
 <details>
