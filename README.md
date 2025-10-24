@@ -103,7 +103,7 @@
 
 <details>
    <summary>
-  &nbsp;⚡  <strong>CodeWars</strong>
+  &nbsp;🧊  <strong>CodeWars</strong>
   </summary>
 </br>
 <div align="left">
@@ -114,7 +114,7 @@
 
 <details>
   <summary>
-&nbsp;📩  <strong>Contacts</strong>
+&nbsp;🌐  <strong>Contacts</strong>
   </summary>
 </br>
   <p align="left">
