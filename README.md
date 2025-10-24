@@ -94,7 +94,7 @@
   </summary>
 </br>
 <div align="left">
-<a href="https://www.codewars.com/users/ZViacheslavV"><img src="https://www.codewars.com/users/ZViacheslavV/badges/large" height='27'/>
+<a href="https://www.codewars.com/users/ZViacheslavV"><img src="https://www.codewars.com/users/ZViacheslavV/badges/large" height='29'/>
 </div>
 </details>
 
