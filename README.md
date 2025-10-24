@@ -14,13 +14,13 @@
   </tr>
 </table>
 </br>
-</br>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="laptop-dblue-js-edited.gif">
     <img align="right" width="25%" src="laptop-dblue-js-edited.gif">
 </picture>
-
+</br>
+</br>
 <details>
    <summary>
   &nbsp;💻  <strong>Tech Stack and Tools</strong>
