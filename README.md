@@ -118,8 +118,8 @@
   </summary>
 </br>
   <p align="left">
-<a href="https://github.com/gitname" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="gitname" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/inname" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inname" height="30" width="40" /></a>
+<a href="https://github.com/ZViacheslavV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="gitname" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/viacheslav-zykov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inname" height="30" width="40" /></a>
 </p>
 </details>
 
