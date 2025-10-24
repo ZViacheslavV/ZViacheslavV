@@ -100,10 +100,10 @@
   </summary>
 </br>
   <p align="left">
-<a href="https://t.me/viacheslav_v_zykov" target="blank"><img align="center" src="assets/telegram-communication-chat-interaction-network-connection-svgrepo-com.svg" alt="telegram" height="30" width="40" /></a>
-<a href="mailto:viacheslav.v.zykov@gmail.com" target="blank"><img align="center" src="assets/email-message-svgrepo-com.svg" alt="gmail" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/viacheslav-zykov/" target="blank"><img align="center" src="assets/linked-in-alt.svg" alt="inname" height="30" width="40" /></a>
-<a href="https://github.com/ZViacheslavV" target="blank"><img align="center" src="assets/github.svg" alt="gitname" height="30" width="40" /></a>
+<a href="https://t.me/viacheslav_v_zykov" target="blank"><img align="center" src="assets/icons/telegram-communication-chat-interaction-network-connection-svgrepo-com.svg" alt="telegram" height="30" width="40" /></a>
+<a href="mailto:viacheslav.v.zykov@gmail.com" target="blank"><img align="center" src="assets/icons/email-message-svgrepo-com.svg" alt="gmail" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/viacheslav-zykov/" target="blank"><img align="center" src="assets/icons/linked-in-alt.svg" alt="inname" height="30" width="40" /></a>
+<a href="https://github.com/ZViacheslavV" target="blank"><img align="center" src="assets/icons/github.svg" alt="gitname" height="30" width="40" /></a>
 
 </p>
 </details>
