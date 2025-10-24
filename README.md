@@ -70,11 +70,7 @@
     <td></td>
     <td></td>
   </tr>
-</table>
-  
-<img src="https://raw.githubusercontent.com/ZViacheslavV/ZViacheslavV/main/assets/skills.svg" alt="skills" />
-
-  
+</table> 
 </details>
 
 <details>
