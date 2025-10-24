@@ -10,7 +10,7 @@
 
 <details>
    <summary>
-  &nbsp;⚙️  <strong>Tech Stack and Tools</strong>
+  &nbsp;💻  <strong>Tech Stack and Tools</strong>
   </summary>
   </br>
 <table aligh='left'>
@@ -90,7 +90,7 @@
 
 <details>
    <summary>
-  &nbsp;💻  <strong>CodeWars Stats</strong>
+  &nbsp;⚡  <strong>CodeWars Stats</strong>
   </summary>
 </br>
 <div align="left">
@@ -139,7 +139,7 @@
 </br>
 </br>
 </br>
-
+⚙️
 <!-- 🌌 Profile Badges Section -->
 
 <!-- GitHub Stats -->
