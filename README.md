@@ -62,12 +62,8 @@
   <summary>
 &nbsp;🔎  <strong>GitHub Stats</strong>
   </summary>
-  </br>
+  <!-- </br> -->
 <p align="left">
-  <!-- <img 
-       src="https://github-readme-stats.vercel.app/api?username=ZViacheslavV&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github" 
-       height="160"
-  /> -->
     <img alt="Total Contributions" src="https://github-readme-stats.vercel.app/api?username=ZViacheslavV&count_private=true&show_icons=true&hide_title=false&hide_rank=true&hide=prs,issues,stars&count_private=true&theme=transparent&hide_border=false" 
         height="170"
         />
@@ -84,6 +80,11 @@
 <!-- <a href="https://github.com/ZViacheslavV?tab=repositories">
   <img alt="Total Contributions" src="https://github-readme-stats.vercel.app/api?username=ZViacheslavV&show_icons=true&hide_title=true&hide_rank=true&hide=prs,issues,stars&count_private=true&theme=transparent">
 </a> -->
+
+  <!-- <img 
+       src="https://github-readme-stats.vercel.app/api?username=ZViacheslavV&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github" 
+       height="160"
+  /> -->
 
 <!-- ![Followers](https://img.shields.io/github/followers/ZViacheslavV?style=for-the-badge&logo=github&label=Followers&color=blue)
 ![GitHub Profile Views](https://img.shields.io/badge/Profile%20Views-123-blue?style=for-the-badge&logo=github)
