@@ -114,18 +114,12 @@
 
 <details>
   <summary>
-&nbsp;📈  <strong>Contacts</strong>
+&nbsp;📩  <strong>Contacts</strong>
   </summary>
-  <p align="center">
-  <a href="https://github.com/ZViacheslavV" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-link" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" />
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-333333?logo=gmail&logoColor=white&style=flat" />
-  </a>
+</br>
+  <p align="left">
+<a href="https://github.com/gitname" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="gitname" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/inname" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inname" height="30" width="40" /></a>
 </p>
 </details>
 
