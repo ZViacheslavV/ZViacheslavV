@@ -21,7 +21,7 @@
   &nbsp;💻  <strong>Tech Stack and Tools</strong>
   </summary>
   </br>
-<table aligh='left' width='100%'>
+<table aligh='left' width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" title="JavaScript" alt="JavaScript" width="27" height="27"/>
@@ -54,7 +54,10 @@
     <!-- <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="27" height="27"/></td> -->
     <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="27" height="27"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="27" height="27"/></td>
-  </tr>
+    <td></td>
+    <td></td>
+    <!-- <td><img width="1" height="1" src="https://github.com/favicon.ico" style="opacity:0;"></td>
+    <td><img width="1" height="1" src="https://github.com/favicon.ico" style="opacity:0;"></td> -->
   </tr>
     <tr>
     <td align="center">
@@ -64,6 +67,8 @@
     <td align="center">React</td>
     <td align="center">HTML5</td>
     <td align="center">CSS3</td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 </details>
