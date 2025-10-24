@@ -38,7 +38,7 @@
 <!--   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/></a>&nbsp;&nbsp; -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/></a>
+  <!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/></a> -->
 </p>
 
 <!-- 🧰 Tools -->
@@ -60,6 +60,7 @@
 <!-- <p align="left">
   <a href="https://www.kernel.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/></a>
 </p> -->
+<em>English:&nbsp;&nbsp; Intermediate - Upper Intermediate</em> </br>
 
 </details>
 
@@ -67,7 +68,7 @@
   <summary>
 &nbsp;🔎  <strong>GitHub Stats</strong>
   </summary>
-  </br>
+  <!-- </br> -->
 <p align="left">
     <img alt="Total Contributions" src="https://github-readme-stats.vercel.app/api?username=ZViacheslavV&count_private=true&show_icons=true&hide_title=false&hide_rank=true&hide=prs,issues,stars&count_private=true&theme=transparent&hide_border=false" 
         height="170"
