@@ -10,7 +10,6 @@
       </td>
   </tr>
 </table>
-
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/laptop-dblue-js-edited.gif">
     <img align="right" width="25%" src="assets/laptop-dblue-js-edited.gif">
