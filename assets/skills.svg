@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="160" viewBox="0 0 800 160" role="img" aria-label="skills">
+  <style>
+    .label{font:12px sans-serif; fill:#8b949e;}
+  </style>
+
+  <!-- Іконки -->
+  <image href="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" x="20"  y="10" width="60" height="60" />
+  <image href="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" x="120" y="10" width="60" height="60" />
+  <image href="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"      x="220" y="10" width="60" height="60" />
+  <image href="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"      x="320" y="10" width="60" height="60" />
+  <image href="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"       x="420" y="10" width="60" height="60" />
+  <image href="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" x="520" y="10" width="60" height="60" />
+  <image href="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg"       x="620" y="10" width="60" height="60" />
+
+  <!-- Підписи -->
+  <text x="50"  y="90"  text-anchor="middle" class="label">JavaScript</text>
+  <text x="150" y="90"  text-anchor="middle" class="label">TypeScript</text>
+  <text x="250" y="90"  text-anchor="middle" class="label">React</text>
+  <text x="350" y="90"  text-anchor="middle" class="label">HTML5</text>
+  <text x="450" y="90"  text-anchor="middle" class="label">CSS3</text>
+  <text x="550" y="90"  text-anchor="middle" class="label">VS Code</text>
+  <text x="650" y="90"  text-anchor="middle" class="label">Vite</text>
+</svg>
