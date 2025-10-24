@@ -72,7 +72,7 @@
         height="170"
         />
   <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZViacheslavV&layout=compact&hide_border=false&theme=transparent"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZViacheslavV&layout=compact&hide_border=true&theme=transparent"
        height="170"
   />
 </p>
