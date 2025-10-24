@@ -90,7 +90,7 @@
 
 <details>
    <summary>
-  &nbsp;⚙️  <strong>CodeWars Stats</strong>
+  &nbsp;💻  <strong>CodeWars Stats</strong>
   </summary>
 </br>
 <div align="left">
