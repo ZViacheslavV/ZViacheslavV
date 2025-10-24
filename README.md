@@ -76,7 +76,7 @@
        height="170"
   />
 </p>
-<p align='center'>
+<p align='right'>
 <a href="https://github.com/ZViacheslavV?tab=repositories"><img heigth='120' alt="Badge" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ZViacheslavV&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=blue"></a>
 <a href="https://github.com/ZViacheslavV?tab=repositories"><img heigth='60' alt="Badge" src="https://komarev.com/ghpvc/?username=ZViacheslavV&color=blue&style=for-the-badge&logo=github"></a>
      </p> 
@@ -106,7 +106,7 @@
   &nbsp;🧊  <strong>CodeWars</strong>
   </summary>
 </br>
-<div align="center">
+<div align="left">
 <a href="https://www.codewars.com/users/ZViacheslavV"><img src="https://www.codewars.com/users/ZViacheslavV/badges/large" height='27'/>
 </div>
 </details>
@@ -117,7 +117,7 @@
 &nbsp;🌐  <strong>Contacts</strong>
   </summary>
 </br>
-  <p align="center">
+  <p align="left">
 <a href="https://github.com/ZViacheslavV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="gitname" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/viacheslav-zykov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inname" height="30" width="40" /></a>
 </p>
