@@ -15,6 +15,7 @@
     <img align="right" width="25%" src="assets/laptop-dblue-js-edited.gif">
 </picture>
 </br>
+</br>
 
 <details>
    <summary>
