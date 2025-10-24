@@ -68,20 +68,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/></a>
 </p>
 
-<div style="display:flex; flex-wrap:wrap; align-items:center; gap:10px; line-height:0;">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" /></a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="50" height="50" /></a>
-</div>
-
-
 <!-- 🧠 Languages -->
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50"/></a>&nbsp;&nbsp;
