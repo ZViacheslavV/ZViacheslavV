@@ -8,8 +8,8 @@
   />
       <h1 align="center"> Front-end developer • Futurologist </h1>
 <!--       </td>
-  </tr> -->
-</table>
+  </tr> 
+</table>-->
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/laptop-dblue-js-edited.gif">
     <img align="right" width="20%" src="assets/laptop-dblue-js-edited.gif">
