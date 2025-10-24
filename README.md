@@ -13,8 +13,8 @@
 </br>
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="laptop-dblue-js-edited.gif">
-    <img align="right" width="25%" src="laptop-dblue-js-edited.gif">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/laptop-dblue-js-edited.gif">
+    <img align="right" width="25%" src="assets/laptop-dblue-js-edited.gif">
 </picture>
 </br>
 
