@@ -103,7 +103,7 @@
 
 <details>
    <summary>
-  &nbsp;⚡  <strong>CodeWars Stats</strong>
+  &nbsp;⚡  <strong>CodeWars</strong>
   </summary>
 </br>
 <div align="left">
@@ -112,6 +112,22 @@
 </details>
 <!--![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D47A1,100:1976D2&text=Viacheslav%20Zykov&textBg=false&reversal=false&fontAlignY=38&descAlign=100&descAlignY=100&animation=twinkling&fontColor=fff&fontSize=50)-->
 
+<details>
+  <summary>
+&nbsp;📈  <strong>Contacts</strong>
+  </summary>
+  <p align="center">
+  <a href="https://github.com/ZViacheslavV" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-333333?logo=gmail&logoColor=white&style=flat" />
+  </a>
+</p>
+</details>
 
 </br>
 </br>
