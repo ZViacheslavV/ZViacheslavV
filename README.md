@@ -61,7 +61,7 @@
 
 <details>
   <summary>
-&nbsp;📈  <strong>GitHub Stats</strong>
+&nbsp;🔎  <strong>GitHub Stats</strong>
   </summary>
 <p align="left">
   <!-- <img 
