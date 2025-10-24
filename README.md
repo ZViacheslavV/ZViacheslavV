@@ -68,11 +68,11 @@
        src="https://github-readme-stats.vercel.app/api?username=ZViacheslavV&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github" 
        height="160"
   /> -->
-    <img alt="Total Contributions" src="https://github-readme-stats.vercel.app/api?username=ZViacheslavV&count_private=true&show_icons=true&hide_title=false&hide_rank=true&hide=prs,issues,stars&count_private=true&theme=transparent&hide_border=true" 
+    <img alt="Total Contributions" src="https://github-readme-stats.vercel.app/api?username=ZViacheslavV&count_private=true&show_icons=true&hide_title=false&hide_rank=true&hide=prs,issues,stars&count_private=true&theme=transparent&hide_border=false" 
         height="170"
         />
   <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZViacheslavV&layout=compact&hide_border=true&theme=transparent"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZViacheslavV&layout=compact&hide_border=false&theme=transparent"
        height="170"
   />
 </p>
