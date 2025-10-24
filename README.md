@@ -20,7 +20,7 @@
     <img align="right" width="25%" src="laptop-dblue-js-edited.gif">
 </picture>
 </br>
-</br>
+
 <details>
    <summary>
   &nbsp;💻  <strong>Tech Stack and Tools</strong>
