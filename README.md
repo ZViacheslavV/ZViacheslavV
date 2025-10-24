@@ -30,7 +30,7 @@
 [![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/html5)&nbsp;
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/javascript)&nbsp;
 [![Linux](https://skillicons.dev/icons?i=linux)](https://developer.mozilla.org/en-US/docs/Web/linux)&nbsp;
-[![MATLAB](https://skillicons.dev/icons?i=matlab)](https://developer.mozilla.org/en-US/docs/Web/matlab)&nbsp;
+[![MATLAB](https://skillicons.dev/icons?i=matlab)](https://developer.mozilla.org/en-US/docs/Web/matlab)&nbsp; 
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://developer.mozilla.org/en-US/docs/Web/mongodb)&nbsp;
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://developer.mozilla.org/en-US/docs/Web/mysql)&nbsp;
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://developer.mozilla.org/en-US/docs/Web/nodejs)&nbsp;
@@ -41,64 +41,85 @@
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://developer.mozilla.org/en-US/docs/Web/typescript)&nbsp;
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank">
-    <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/>
-  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/></a>
 </p>
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
-  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/></a>
 </p>
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank">
-    <img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50"/>
-  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank"><img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50"/></a>
 </p>
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/>
-  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/></a>
 </p>
+
+<div style="display:flex; flex-wrap:wrap; align-items:center; gap:10px; line-height:0;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" /></a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="50" height="50" /></a>
+</div>
+
+
+<!-- 🧠 Languages -->
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50"/></a>
+</p>
+
+<!-- 🎨 Frontend -->
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="50" height="50"/></a>
+</p>
+
+<!-- ⚙️ Backend -->
+<p align="left">
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/></a>
+</p>
+
+<!-- 🧰 Tools -->
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="50" height="50"/></a>
+</p>
+
+<!-- 💻 OS -->
+<p align="left">
+  <a href="https://www.kernel.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/></a>
+</p>
+
 
 <p>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>&nbsp;&nbsp;
@@ -111,7 +132,7 @@
         <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a>&nbsp;&nbsp;
     </p>
 <p>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>&nbsp;&nbsp;
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>&nbsp;&nbsp;
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>&nbsp;&nbsp;
         <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>&nbsp;&nbsp;
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a>&nbsp;&nbsp;
