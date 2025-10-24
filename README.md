@@ -60,7 +60,7 @@
 <!-- <p align="left">
   <a href="https://www.kernel.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="37" height="37"/></a>
 </p> -->
-<em>English:&nbsp;&nbsp; Intermediate — Upper Intermediate</em> </br>
+<em>English:&nbsp;&nbsp; Intermediate – Upper Intermediate</em> </br>
 
 </details>
 
