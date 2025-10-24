@@ -12,7 +12,7 @@
 </table>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/laptop-dblue-js-edited.gif">
-    <img align="right" width="19%" src="assets/laptop-dblue-js-edited.gif">
+    <img align="right" width="20%" src="assets/laptop-dblue-js-edited.gif">
 </picture>
 </br>
 
