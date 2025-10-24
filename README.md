@@ -102,8 +102,8 @@
   <p align="left">
 <a href="https://github.com/ZViacheslavV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="gitname" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/viacheslav-zykov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inname" height="30" width="40" /></a>
-<a href="https://t.me/viacheslav_v_zykov" target="blank"><img align="center" src="assets/telegram-communication-chat-interaction-network-connection-svgrepo-com.svg" alt="telegram" height="30" width="40" /></a>
-<a href="mailto:youremail@gmail.com" target="blank"><img align="center" src="assets/gmail-svgrepo-com.svg" alt="gmail" height="30" width="40" /></a>
+<a href="https://t.me/viacheslav_v_zykov" target="blank"><img align="center" src="assets/telegram-communication-chat-interaction-network-connection-svgrepo-com.svg" alt="telegram" height="40" width="40" /></a>
+<a href="mailto:youremail@gmail.com" target="blank"><img align="center" src="assets/gmail-svgrepo-com.svg" alt="gmail" height="40" width="40" /></a>
 
 </p>
 </details>
