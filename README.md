@@ -54,8 +54,8 @@
     <!-- <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="25" height="25"/></td> -->
     <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="25" height="25"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="25" height="25"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="25" height="25"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="25" height="25"/></td>
+<!--     <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="25" height="25"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="25" height="25"/></td> -->
   </tr>
   </tr>
     <tr>
@@ -66,8 +66,8 @@
     <td align="center">React</td>
     <td align="center">HTML5</td>
     <td align="center">CSS3</td>
-    <td align="center">VS Code</td>
-      <td align="center">Vite</td>
+<!--     <td align="center">VS Code</td>
+      <td align="center">Vite</td> -->
   </tr>
 </table>
 </details>
