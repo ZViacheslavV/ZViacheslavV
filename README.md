@@ -106,7 +106,7 @@
   &nbsp;🧊  <strong>CodeWars</strong>
   </summary>
 </br>
-<div align="left">
+<div align="center">
 <a href="https://www.codewars.com/users/ZViacheslavV"><img src="https://www.codewars.com/users/ZViacheslavV/badges/large" height='27'/>
 </div>
 </details>
@@ -117,7 +117,7 @@
 &nbsp;🌐  <strong>Contacts</strong>
   </summary>
 </br>
-  <p align="left">
+  <p align="center">
 <a href="https://github.com/ZViacheslavV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="gitname" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/viacheslav-zykov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inname" height="30" width="40" /></a>
 </p>
