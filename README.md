@@ -7,7 +7,7 @@
     style="border-radius: 14px; box-shadow: 0 0 20px rgba(13, 71, 161, 0.6);"
     width = "100%"
   />
-      <h1 align="center"> Front-end Developer • Futurologist </h1>
+      <h1 align="center"> Front-end developer • Futurologist </h1>
 <!--       </td>
   </tr> 
 </table>-->
