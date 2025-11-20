@@ -45,7 +45,7 @@
 <!-- 🧰 Tools -->
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="37" height="37"/></a>&nbsp;&nbsp;
-  <!-- <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="37" height="37"/></a>&nbsp;&nbsp; -->
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="37" height="37"/></a>&nbsp;&nbsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="37" height="37"/></a>&nbsp;&nbsp;
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="37" height="37"/></a>
 </p>
