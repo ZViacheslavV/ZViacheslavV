@@ -36,9 +36,9 @@
 
 <!-- ⚙️ Backend -->
 <p align="left">
-   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="37" height="37"/></a>&nbsp;&nbsp;
+ <!--  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="37" height="37"/></a>&nbsp;&nbsp;
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="Express" width="37" height="37"/></a>&nbsp;&nbsp;
-  <!--<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="37" height="37"/></a>&nbsp;&nbsp; -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="37" height="37"/></a>&nbsp;&nbsp; -->
   <!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="37" height="37"/></a> -->
 </p>
 
