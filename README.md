@@ -88,7 +88,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZViacheslavV&theme=react-dark&hide_border=true&area=true&height=290" />
 
 </p>
-<p align='left'>
+<p align='center'>
 <a href="https://github.com/ZViacheslavV?tab=repositories&q=&type=public&language=&sort="><img heigth='120' alt="Badge" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ZViacheslavV&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=blue"></a>&nbsp;&nbsp;&nbsp; 
 <a href="https://github.com/ZViacheslavV?tab=repositories"><img heigth='60' alt="Badge" src="https://komarev.com/ghpvc/?username=ZViacheslavV&color=blue&style=for-the-badge&logo=github"></a>
      </p> 
