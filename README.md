@@ -85,7 +85,7 @@
   width="540"
 />
  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZViacheslavV&theme=react-dark&hide_border=true&area=true&height=300" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZViacheslavV&theme=react-dark&hide_border=true&area=true&height=290" />
 
 </p>
 <p align='left'>
