@@ -78,8 +78,14 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZViacheslavV&layout=compact&hide_border=true&theme=transparent"
        height="135"
   /> -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZViacheslavV&theme=transparent" height="160" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZViacheslavV&theme=transparent" height="160" />
+<div style="border: 1px solid rgba(255,255,255,0.15); border-radius: 10px; padding: 4px; display: inline-block;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZViacheslavV&theme=transparent" height="160" />
+</div>
+
+<div style="border: 1px solid rgba(255,255,255,0.15); border-radius: 10px; padding: 4px; display: inline-block; margin-left: 8px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZViacheslavV&theme=transparent" height="160" />
+</div>
+
 <img 
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZViacheslavV&theme=transparent" 
   width="540"
