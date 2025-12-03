@@ -79,8 +79,8 @@
        height="135"
   /> -->
   </br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZViacheslavV&theme=tokyonight" height="150" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZViacheslavV&theme=tokyonight" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZViacheslavV&theme=transparent" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZViacheslavV&theme=transparent" height="150" />
   
   </br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZViacheslavV&theme=react-dark&hide_border=true&area=true&height=300" />
