@@ -71,13 +71,28 @@
   </summary>
   <!-- </br> -->
 <p align="left">
-  <!--  <img alt="Total Contributions" src="https://github-readme-stats.vercel.app/api?username=ZViacheslavV&count_private=true&show_icons=true&hide_title=false&hide_rank=true&hide=prs,issues,stars&count_private=true&theme=transparent&hide_border=false" 
+ <!--    <img alt="Total Contributions" src="https://github-readme-stats.vercel.app/api?username=ZViacheslavV&count_private=true&show_icons=true&hide_title=false&hide_rank=true&hide=prs,issues,stars&count_private=true&theme=transparent&hide_border=false" 
         height="135"
-        /> -->
+        /> 
   <img 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZViacheslavV&layout=compact&hide_border=true&theme=transparent"
        height="135"
-  />
+  /> -->
+  </br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZViacheslavV&theme=tokyonight" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZViacheslavV&theme=tokyonight" height="150" />
+  
+  </br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZViacheslavV&theme=react-dark&hide_border=true&area=true&height=300" />
+  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZViacheslavV&theme=github_dark" />
+ </br>
+ <!-- <img src="https://github-readme-stats-eta-seven.vercel.app/api?username=ZViacheslavV&show_icons=true&count_private=true&hide_title=false&hide_rank=true&hide_border=false&hide=prs,issues,stars&theme=transparent" height="135" />
+<img src="https://github-readme-stats-eta-seven.vercel.app/api/top-langs/?username=ZViacheslavV&layout=compact&hide_border=true&theme=transparent" height="135" /> -->
+
+
+
+
 </p>
 <p align='left'>
 <a href="https://github.com/ZViacheslavV?tab=repositories&q=&type=public&language=&sort="><img heigth='120' alt="Badge" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ZViacheslavV&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=blue"></a>&nbsp;&nbsp;&nbsp; 
