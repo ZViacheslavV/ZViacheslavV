@@ -83,15 +83,11 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZViacheslavV&theme=transparent" height="150" />
   
   </br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZViacheslavV&theme=react-dark&hide_border=true&area=true&height=300" />
-  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZViacheslavV&theme=github_dark" />
+ 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZViacheslavV&theme=transparent" />
  </br>
- <!-- <img src="https://github-readme-stats-eta-seven.vercel.app/api?username=ZViacheslavV&show_icons=true&count_private=true&hide_title=false&hide_rank=true&hide_border=false&hide=prs,issues,stars&theme=transparent" height="135" />
-<img src="https://github-readme-stats-eta-seven.vercel.app/api/top-langs/?username=ZViacheslavV&layout=compact&hide_border=true&theme=transparent" height="135" /> -->
-
-
-
+ 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZViacheslavV&theme=react-dark&hide_border=true&area=true&height=300" />
 
 </p>
 <p align='left'>
