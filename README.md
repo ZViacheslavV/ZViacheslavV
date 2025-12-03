@@ -70,7 +70,7 @@
 &nbsp;🔎  <strong>GitHub Stats</strong>
   </summary>
   <!-- </br> -->
-<p align="center">
+<p align="left">
  <!--    <img alt="Total Contributions" src="https://github-readme-stats.vercel.app/api?username=ZViacheslavV&count_private=true&show_icons=true&hide_title=false&hide_rank=true&hide=prs,issues,stars&count_private=true&theme=transparent&hide_border=false" 
         height="135"
         /> 
@@ -88,7 +88,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZViacheslavV&theme=react-dark&hide_border=true&area=true&height=290" />
 
 </p>
-<p align='center'>
+<p align='left'>
 <a href="https://github.com/ZViacheslavV?tab=repositories&q=&type=public&language=&sort="><img heigth='120' alt="Badge" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ZViacheslavV&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=blue"></a>&nbsp;&nbsp;&nbsp; 
 <a href="https://github.com/ZViacheslavV?tab=repositories"><img heigth='60' alt="Badge" src="https://komarev.com/ghpvc/?username=ZViacheslavV&color=blue&style=for-the-badge&logo=github"></a>
      </p> 
@@ -99,7 +99,7 @@
   &nbsp;🧊  <strong>CodeWars</strong>
   </summary>
 </br>
-<div align="center">
+<div align="left">
 <a href="https://www.codewars.com/users/ZViacheslavV" target="&lowbar;blank"><img src="https://www.codewars.com/users/ZViacheslavV/badges/large" height='30'/>
 </div>
 </details>
@@ -109,7 +109,7 @@
 &nbsp;🌐  <strong>Contacts</strong>
   </summary>
 </br>
-  <p align="center">
+  <p align="left">
 <a href="https://t.me/viacheslav_v_zykov" target="blank"><img align="center" src="assets/icons/telegram-communication-chat-interaction-network-connection-svgrepo-com.svg" alt="telegram" height="35" width="40" /></a>
 <a href="mailto:viacheslav.v.zykov@gmail.com" target="blank"><img align="center" src="assets/icons/email-message-svgrepo-com.svg" alt="gmail" height="43" width="43" /></a>
 <a href="https://www.linkedin.com/in/viacheslav-zykov/" target="blank"><img align="center" src="assets/icons/linked-in-alt.svg" alt="inname" height="30" width="40" /></a>
