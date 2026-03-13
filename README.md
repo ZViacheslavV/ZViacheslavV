@@ -29,6 +29,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="37" height="37"/></a>&nbsp;&nbsp;
   <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="React" width="37" height="37"/></a>&nbsp;&nbsp;
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=next" alt="Next" width="37" height="37"/></a>&nbsp;&nbsp;
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sass" alt="Sass" width="37" height="37"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="37" height="37"/></a>&nbsp;&nbsp; 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="37" height="37"/></a>&nbsp;&nbsp;  
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="37" height="37"/></a>
